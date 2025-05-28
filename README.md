@@ -13,14 +13,3 @@
 <div> leetcode : https://leetcode.com/u/Kallmejoee/ </div>
 
 
-<br clear="both">
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/yousseftarek/yousseftarek/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://profile-counter.glitch.me/yousseftarek/count.svg?" />
-</div>
