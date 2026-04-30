@@ -1,2 +1,1 @@
-busy doing things that matter to me
-
+bored. if you have smth interesting DM me
